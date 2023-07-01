@@ -1,5 +1,6 @@
 # Fisica1
-Material de Física 1 FIUBA
+###### Pasame tus drives a jporro@fi.uba.ar asi los subo a la repo.
+##### Dejame una ⭐!
 
 Drives:
 * https://drive.google.com/drive/folders/16aSsK9mI4gv0ExgIiiOoWoWBLkRE26sr
@@ -7,4 +8,3 @@ Drives:
 * https://drive.google.com/drive/folders/1PbKyTZ74Ityk48uWpEcYO06eG58W3_Uc
 * https://drive.google.com/drive/folders/11QCX2zGOMBSJRQZta-VPgCoS7FpqLPCC
 
-Dejame una ⭐!
