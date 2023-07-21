@@ -1,5 +1,5 @@
 # Fisica I
-###### Pasame tus drives a jporro@fi.uba.ar asi los subo a la repo.
+###### Drives --> jporro@fi.uba.ar
 
 ### Drives:
 * https://drive.google.com/drive/folders/16aSsK9mI4gv0ExgIiiOoWoWBLkRE26sr
