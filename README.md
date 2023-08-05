@@ -7,6 +7,9 @@
 * https://drive.google.com/drive/folders/1PbKyTZ74Ityk48uWpEcYO06eG58W3_Uc
 * https://drive.google.com/drive/folders/11QCX2zGOMBSJRQZta-VPgCoS7FpqLPCC
 
+### Clases:
+* [Youtube Fontana](https://www.youtube.com/@MarceloRaulFontana/featured)
+
 ### Links:
 * [Wiki Fiuba](http://wiki.foros-fiuba.com.ar/materias:62:01)
 * [Repo con mas material](https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/ab4a346871c25b500a942c0f5ff244cda139a1a7/82%20-%20F%C3%ADsica/8201%20-%20Fisica%20I)
