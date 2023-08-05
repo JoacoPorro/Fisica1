@@ -10,6 +10,12 @@
 ### Clases:
 * [Youtube Fontana](https://www.youtube.com/@MarceloRaulFontana/featured)
 
+### Videos:
+* [Teoria](https://www.youtube.com/playlist?list=PLovUfzQicsXuF4Qflrfyh3QiRIGDQiA6B)
+* [Guia Resuelta en detalle](https://www.youtube.com/playlist?list=PLovUfzQicsXsiTJYGC9H2iMGU5V9RIIHc)
+* [Parciales y Finales](https://www.youtube.com/playlist?list=PLovUfzQicsXsBRJ9TCj76RK9ZqdbnxasU)
+* [Otros Videos](https://www.youtube.com/playlist?list=PLovUfzQicsXsQfspBxfR3fEPtIvNu3zZE)
+
 ### Links:
 * [Wiki Fiuba](http://wiki.foros-fiuba.com.ar/materias:62:01)
 * [Repo con mas material](https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/ab4a346871c25b500a942c0f5ff244cda139a1a7/82%20-%20F%C3%ADsica/8201%20-%20Fisica%20I)
