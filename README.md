@@ -22,8 +22,8 @@
 * [Repo con mas material](https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/ab4a346871c25b500a942c0f5ff244cda139a1a7/82%20-%20F%C3%ADsica/8201%20-%20Fisica%20I)
 
 ### Tips:
-* Estudien con resueltos
-* Vean el formato de parciales y finales para ver que suelen tomar y estudien haciendolos
+* Estudien con ejercicios y examenes resueltos
+* Vean el formato de parciales y finales para ver que suelen tomar
 
 ### Dejame ⭐ Arriba
 ### Viva la Libertad Carajo!
