@@ -25,6 +25,7 @@
 * Estudien con ejercicios y examenes resueltos
 * Vean el formato de parciales y finales antes para ver que suelen tomar
 * Si no toman lista, pueden no ir a las clases si no les aporta mucho. Si queres ser eficiente, la forma es estudiar con la guia resuelta en los videos y si necesitas ver las clases de Fontana o los videos teoricos. Cuando la di no fui a ninguna clase y estudie exclusivamente con resueltos y me saque un 9 en el final. Si lo haces bien, es la mejor forma.
+* No es como en el secu que aprobas sin estudiar, son dificiles los examenes
 
 ### Dejame ⭐ Arriba
 ### Viva la Libertad Carajo!
