@@ -13,7 +13,7 @@
 
 ### Videos:
 * [Teoria](https://www.youtube.com/playlist?list=PLovUfzQicsXuF4Qflrfyh3QiRIGDQiA6B)
-* [Guia Resuelta en detalle](https://www.youtube.com/playlist?list=PLovUfzQicsXsiTJYGC9H2iMGU5V9RIIHc) __Ver__
+* [Guia Resuelta en detalle](https://www.youtube.com/playlist?list=PLovUfzQicsXsiTJYGC9H2iMGU5V9RIIHc) __Muy util__
 * [Parciales y Finales](https://www.youtube.com/playlist?list=PLovUfzQicsXsBRJ9TCj76RK9ZqdbnxasU)
 * [Otros Videos](https://www.youtube.com/playlist?list=PLovUfzQicsXsQfspBxfR3fEPtIvNu3zZE)
 
