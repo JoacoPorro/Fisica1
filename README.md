@@ -23,6 +23,7 @@
 * [Repo con mas material](https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/ab4a346871c25b500a942c0f5ff244cda139a1a7/82%20-%20F%C3%ADsica/8201%20-%20Fisica%20I)
 
 ### Tips:
+* Si no saben donde conseguir material vean [Fiuba Repos](https://fede.dm/FIUBA-Repos/) y [Wiki Fiuba](http://wiki.foros-fiuba.com.ar/materias)
 * Estudien con ejercicios y examenes resueltos
 * Vean el formato de parciales y finales antes para ver que suelen tomar
 * No es como en el secu que aprobas sin estudiar, son dificiles los examenes
