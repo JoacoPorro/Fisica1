@@ -29,6 +29,6 @@
 * No es como en el secu que aprobas sin estudiar, son dificiles los examenes
 * Si quieren ser eficientes, la forma es estudiar usando la guia resuelta en los videos y leyendo la teoria en algun libro. Yo hice eso y no fui a ninguna clase y me saque un 9 en el final
 
-
+##### [Ver mas Repos Libertarias](https://github.com/jporro?tab=repositories&q=&type=&language=&sort=stargazers)
 ### Deja ⭐ Arriba
 ### Viva la Libertad Carajo!
